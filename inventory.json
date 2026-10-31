@@ -1,0 +1,18 @@
+[
+    {
+        "ID": "P003",
+        "Name": "Ipad",
+        "Price": 200.0,
+        "Stock": 21,
+        "Type": "physical",
+        "Weight": 1.0
+    },
+    {
+        "ID": "P002",
+        "Name": "Bitcoin",
+        "Price": 10000.0,
+        "Stock": 1,
+        "Type": "digital",
+        "Download_Size": 0.5
+    }
+]
